@@ -1,0 +1,11 @@
+D:\C# projects\Task2\Task2\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\C# projects\Task2\Task2\Domain\bin\Debug\net9.0\Domain.dll
+D:\C# projects\Task2\Task2\Domain\bin\Debug\net9.0\Domain.pdb
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\Domain.dll
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\Domain.pdb
+D:\C# projects\Task2\Task2\Domain\obj\Debug\net9.0\ref\Domain.dll
