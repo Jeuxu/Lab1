@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domain.CityAirQuality">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CityAirQuality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.CityAirQualityManager">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAIAACAkAAAAAAAAAAA=</HashCode>
+      <FileName>CityAirQualityManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.MonthlyAQI">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAAAAA=</HashCode>
+      <FileName>MonthlyAQI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

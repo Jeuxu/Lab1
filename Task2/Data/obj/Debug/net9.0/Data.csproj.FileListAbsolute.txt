@@ -1,0 +1,31 @@
+D:\C# projects\Task2\Task2\Data\bin\Debug\net9.0\Data.deps.json
+D:\C# projects\Task2\Task2\Data\bin\Debug\net9.0\Data.dll
+D:\C# projects\Task2\Task2\Data\bin\Debug\net9.0\Data.pdb
+D:\C# projects\Task2\Task2\Data\bin\Debug\net9.0\Domain.dll
+D:\C# projects\Task2\Task2\Data\bin\Debug\net9.0\Domain.pdb
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.dll
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\refint\Data.dll
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\Data.pdb
+D:\C# projects\Task2\Task2\Data\obj\Debug\net9.0\ref\Data.dll
+D:\C#Labs\Lab1\Task2\Data\bin\Debug\net9.0\Data.deps.json
+D:\C#Labs\Lab1\Task2\Data\bin\Debug\net9.0\Data.dll
+D:\C#Labs\Lab1\Task2\Data\bin\Debug\net9.0\Data.pdb
+D:\C#Labs\Lab1\Task2\Data\bin\Debug\net9.0\Domain.dll
+D:\C#Labs\Lab1\Task2\Data\bin\Debug\net9.0\Domain.pdb
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.sourcelink.json
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.dll
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\refint\Data.dll
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\Data.pdb
+D:\C#Labs\Lab1\Task2\Data\obj\Debug\net9.0\ref\Data.dll

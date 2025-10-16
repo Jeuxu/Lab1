@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|c:\\users\\milec\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task1\\lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|solutionrelative:lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|c:\\users\\milec\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|c:\\users\\milec\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task1\\lab1\\filecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|solutionrelative:lab1\\filecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|c:\\users\\milec\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task1\\lab1\\foldersyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|solutionrelative:lab1\\foldersyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|c:\\users\\milec\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task1\\lab1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|solutionrelative:lab1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|c:\\users\\milec\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task1\\lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAF4FE7-4A7A-4937-826A-26CD6C7DD413}|Lab1\\Task1.csproj|solutionrelative:lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:27:32.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileComparer.cs",
+              "DocumentMoniker": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\FileComparer.cs",
+              "RelativeDocumentMoniker": "Lab1\\FileComparer.cs",
+              "ToolTip": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\FileComparer.cs",
+              "RelativeToolTip": "Lab1\\FileComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:26:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FolderSyncService.cs",
+              "DocumentMoniker": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\FolderSyncService.cs",
+              "RelativeDocumentMoniker": "Lab1\\FolderSyncService.cs",
+              "ToolTip": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\FolderSyncService.cs",
+              "RelativeToolTip": "Lab1\\FolderSyncService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:26:02.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\MainForm.cs [Design]",
+              "RelativeToolTip": "Lab1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:22:18.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\MainForm.Designer.cs",
+              "RelativeToolTip": "Lab1\\MainForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:18:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\milec\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Task1\\Lab1\\MainForm.cs",
+              "RelativeToolTip": "Lab1\\MainForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:50:08.01Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
